@@ -1,0 +1,6 @@
+-chronometer fix
+-ufo new spawn timer
+-deleting objects by index
+-lives bug gone
+-gameOver message
+-dead field on moving objects
